@@ -1,0 +1,13 @@
+.card{
+    height: 30vh !important;
+    width: 25vw !important;
+    margin: 1em 2em;
+    border-radius: 1em !important;
+    background-color: #1976d2 !important;
+}
+
+.card-body{
+    position: absolute;
+    top: 12vh;
+    background-color: white !important;
+}

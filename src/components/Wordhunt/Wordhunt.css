@@ -1,0 +1,26 @@
+.grid{
+    width: 85vh!important;
+    border: none !important;
+}
+
+.clues {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font: 100px;
+    top: 7vw;
+    left: 85vh;
+    text-align: left !important;
+}
+
+.cross_btn{
+   width: 40vw;
+   margin-right: 3em !important;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.cross{
+    text-align: center;
+}
