@@ -18,7 +18,7 @@ export default function Login() {
   const navigate = useNavigate()
 
   const handleSubmit = () => {
-    axios.post('https://backend-6wmd.onrender.com/api/login/user', {
+    axios.post('https://jigsawjunctionbackend.onrender.com/api/login/user', {
       email : email,
       password : password
     }).then((response) => {
